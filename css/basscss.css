@@ -1071,7 +1071,7 @@ hr {
   border-style: solid;
   border-width: 1px;
   border-color: #ccc;
-  border-radius: 3px;
+  border-radius: 0px;
 }
 
 .field-light:focus {
@@ -1190,8 +1190,8 @@ hr {
 
 .button-blue {
   color: white;
-  background-color: #0076df;
-  border-radius: 3px;
+  background-color: #3266CC;
+  border-radius: 0px;
   -webkit-transition-duration: .1s;
           transition-duration: .1s;
   -webkit-transition-timing-function: ease-out;
